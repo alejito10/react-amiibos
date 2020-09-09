@@ -1,3 +1,0 @@
-@function pg($number, $pg: 8, $type: px) {
-  @return #{$number * $pg}$type;
-}

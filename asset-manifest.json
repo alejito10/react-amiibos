@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-amiibos/static/css/main.74ec7133.chunk.css",
+    "main.js": "/react-amiibos/static/js/main.d3728afd.chunk.js",
+    "main.js.map": "/react-amiibos/static/js/main.d3728afd.chunk.js.map",
+    "runtime-main.js": "/react-amiibos/static/js/runtime-main.990a02ec.js",
+    "runtime-main.js.map": "/react-amiibos/static/js/runtime-main.990a02ec.js.map",
+    "static/js/2.29a75f31.chunk.js": "/react-amiibos/static/js/2.29a75f31.chunk.js",
+    "static/js/2.29a75f31.chunk.js.map": "/react-amiibos/static/js/2.29a75f31.chunk.js.map",
+    "index.html": "/react-amiibos/index.html",
+    "precache-manifest.34ebf60adad7d03aef26af4a8271a4d1.js": "/react-amiibos/precache-manifest.34ebf60adad7d03aef26af4a8271a4d1.js",
+    "service-worker.js": "/react-amiibos/service-worker.js",
+    "static/css/main.74ec7133.chunk.css.map": "/react-amiibos/static/css/main.74ec7133.chunk.css.map",
+    "static/js/2.29a75f31.chunk.js.LICENSE.txt": "/react-amiibos/static/js/2.29a75f31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.990a02ec.js",
+    "static/js/2.29a75f31.chunk.js",
+    "static/css/main.74ec7133.chunk.css",
+    "static/js/main.d3728afd.chunk.js"
+  ]
+}
